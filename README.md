@@ -3,20 +3,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/Tool-PostgreSQL-blue) ![Tableau](https://img.shields.io/badge/Tool-Tableau%20Public-orange) ![Status](https://img.shields.io/badge/Status-Completed-green)
 
----
-
-## Table of Contents
-0 [Executive Summary](#0-executive-summary)
-1. [Introduction](#1-introduction)
-   - [Project Background](#a-project-background)
-   - [Dataset Overview](#b-dataset-overview)
-2. [Analysis Objectives](#2-analysis-objectives)
-3. [Tools, Framework and Process](#3-tools-framework-and-process)
-4. [Dashboard](#4-dashboard)
-5. [Insights and Action Recommendations](#5-insights-and-action-recommendations)
-
----
-
 ## Executive Summary
 
 This company operates with a performance and reward system that consistently fails to recognize and retain its highest contributing employees. Combined with department-level burnout concentrated in Finance, structural disengagement in R&D and Human Resources, and a training program that actively demotivates rather than develops its participants, the organization faces compounding retention risks across multiple fronts.
